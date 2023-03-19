@@ -1,3 +1,0 @@
-Olá, Professora Luciana! Tudo bem?
-Eu fiz os exercícios, porém no sétimo item (alteração da estrutura de uma tabela), o resultado deu em nove funcionários, sendo que eu escrevi todos os códigos exatamente como descritos na tarefa. Por gentileza, se você abrir esse bloco txt, será que poderia me explicar o porquê dessa diferença? 
-Desde já, obrigado!
